@@ -62,12 +62,12 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 <img width="839" height="1600" alt="image" src="https://github.com/user-attachments/assets/33d15466-6430-4eba-b434-bf21bfa32c43" />
 
-## RESULT
 
-Thus the DSB-SC-AM Modulation and Demodulation is generated.
 
 ## CALCULATION
 <img width="904" height="1600" alt="image" src="https://github.com/user-attachments/assets/f0fee638-355e-4553-ab1d-445e468dcdcc" />
 
+## RESULT
 
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
 
